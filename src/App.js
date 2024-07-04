@@ -7,7 +7,7 @@ const user = {
   email: "12345@example.com",
   phone: "090-1111-22222",
   company: {
-    name: "テスト株式会社",
+    name: "株式会社",
   },
   website: "https://google.com",
 };
